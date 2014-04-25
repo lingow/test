@@ -13,5 +13,6 @@ public class Gittest {
 
     private void HelloWorld() {
         System.out.println("Hello World!");
+        System.out.println("Added the feature!");
     }
 }
