@@ -7,5 +7,6 @@ public class Gittest {
 
     public static void main(String[] args) {
         Gittest gittest = new Gittest();
+        // This comment was added in the prev branch
     }
 }
